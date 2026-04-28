@@ -1,6 +1,9 @@
 # AGX Orin — Deployment Guide
 ## Continuous Sign Language Translation Demo
 
+<img width="1068" height="1040" alt="image" src="https://github.com/user-attachments/assets/d69554f8-d9b5-458d-a9b5-038788ea9d5b" />
+
+
 ---
 
 ## System Overview
